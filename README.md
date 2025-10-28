@@ -83,8 +83,6 @@ I’m passionate about adapting to current technological changes and making AI w
 
 [![](https://visitcount.itsvg.in/api?id=Arijit-Sarkar03&icon=0&color=1)](https://visitcount.itsvg.in)
 
----
-
 🎶 When I'm not coding, you'll probably find me creating music, singing, or writing my next song!
 
 
