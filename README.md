@@ -87,4 +87,6 @@ I’m passionate about adapting to current technological changes and making AI w
 
 🎶 When I'm not coding, you'll probably find me creating music, singing, or writing my next song!
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0FDBF7&width=435&lines=Thank+you+for+visiting!+%3C3)](https://git.io/typing-svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
