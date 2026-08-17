@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 
-I'm currently a **Technology Intern (AI Engineer)** at [Videonetics, Kolkata](https://www.videonetics.com/), where I explore the boundaries of AI, edge computing, and computer vision.  
-I’m passionate about adapting to current technological changes and making AI work seamlessly for impactful, real-world use cases using efficient SLMs.
+I'm currently a **Associate Engineer - Research** at [Videonetics, Kolkata](https://www.videonetics.com/), where I explore the boundaries of AI, edge computing, and computer vision.  
+I’m passionate about adapting to current technological changes and making AI work seamlessly for impactful, real-world use cases.
 
 - 🔬 **Excited by:** Adapting to cutting-edge tech and making AI work seamlessly for focused, impactful applications.
 - 🎵 **Hobbies:** Music composing, singing, and songwriting.
